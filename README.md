@@ -71,8 +71,8 @@ project/
 ├── notebook.ipynb
 
 ├── images/
-│   ├── training_validation_curves.png
-│   ├── confusion_matrix.png
+   training_validation_curves.png
+   confusion_matrix.png
 
 └── README.md
 
