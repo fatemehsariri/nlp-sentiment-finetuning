@@ -69,9 +69,11 @@ Then run the notebook in a Python environment with GPU support (recommended).
 
 project/
 ├── notebook.ipynb
+
 ├── images/
 │   ├── training_validation_curves.png
 │   ├── confusion_matrix.png
+
 └── README.md
 
 ## Future Improvements
